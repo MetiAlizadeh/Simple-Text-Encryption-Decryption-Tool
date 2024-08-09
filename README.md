@@ -12,7 +12,7 @@ This project provides a simple tool for encrypting and decrypting files using tw
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/simple-file-encryption.git
+    git clone https://github.com/MetiAlizadeh/Simple-Text-Encryption-Decryption-Tool.git
     cd simple-file-encryption
     ```
 
